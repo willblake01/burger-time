@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+  background-image: url("../img/burgertime.jpg");
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  /* background-position: center center; */
+}
+
+.container {
+  position: relative;
+  top: 80px;
+}
+
+#input {
+  text-align: center;
+}
+
+#bu {
+  margin-bottom: 5px;
+  height: 60px;
+  width: 220px;
+}
+
+h1 {
+  text-align: center;
+  color: green;
+}
+
+p {
+  text-align: center;
+  color: blue;
+}
