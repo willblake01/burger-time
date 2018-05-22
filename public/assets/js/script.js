@@ -6,8 +6,7 @@ $(document).ready(function() {
     console.log(burger_id)
     $.ajax({
         method: 'PUT',
-        url: '/burgers/' + burger_id,
-        dataType: 'jsonp'
+        url: '/burgers/' + burger_id
     }).then(function(data) {
       location.reload();
     })
