@@ -4,9 +4,9 @@
 
 body {
   background-image: url("../img/burgertime.jpg");
-  /* background-size: cover; */
-  /* background-repeat: no-repeat; */
-  /* background-position: center center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .container {
