@@ -19,13 +19,15 @@
   },
   "homepage": "https://github.com/WillBlake01/burger#readme",
   "dependencies": {
+    "atob": "^2.1.2",
     "body-parser": "^1.18.2",
+    "deep-extend": "^0.6.0",
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0",
     "install": "^0.10.4",
     "method-override": "^2.3.10",
     "mysql": "^2.15.0",
-    "nodemon": "^1.15.0",
-    "npm": "^5.6.0"
+    "nodemon": "^1.18.3",
+    "npm": "^6.4.0"
   }
 }
